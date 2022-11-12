@@ -1,0 +1,12 @@
+{
+    "python.languageServer": "Pylance",
+    "python.formatting.provider": "yapf",
+    "python.analysis.memory.keepLibraryAst": true,
+    "python.defaultInterpreterPath": "d:/SOFTS/Anacoda/envs/OpenCV",
+    "python.autoComplete.extraPaths": [
+        "d:/SOFTS/Anacoda/envs/OpenCV"
+    ],
+    "python.analysis.extraPaths": [
+        "d:/SOFTS/Anacoda/envs/OpenCV"
+    ]
+}
